@@ -41,5 +41,3 @@ Com o **Language Studio**, foram realizadas:
 
 A prática proporcionou uma boa visão do potencial das ferramentas de IA da Microsoft. 
 
-[🔗 Link do Repositório no GitHub](https://github.com/SEU_USUARIO/speech-language-lab)
-
